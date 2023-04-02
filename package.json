@@ -1,0 +1,30 @@
+{
+  "name": "trantteam-ordering-system",
+  "version": "1.0.0",
+  "description": "And ordering system for trantteam research group university of windsor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ik0039/ordering-system.git"
+  },
+  "keywords": [
+    "ordering",
+    "system"
+  ],
+  "author": "imran khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ik0039/ordering-system/issues"
+  },
+  "homepage": "https://github.com/ik0039/ordering-system#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
